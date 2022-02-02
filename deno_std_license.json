@@ -1,0 +1,11 @@
+{
+  "**/*.{ts,js}": "// Copyright 2018-2022 the Deno authors. All rights reserved. MIT license.",
+  "ignore": [
+    "testdata",
+    "node_modules",
+    "node/_module/cjs",
+    "hash/_wasm/wasm.js",
+    "node/_tools/versions",
+    "node/_tools/suites"
+  ]
+}
